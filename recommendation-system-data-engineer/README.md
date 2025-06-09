@@ -45,10 +45,10 @@ I was responsible for:
 
 ## 📷 Documentation
 
-- Cleaned User Data (from user(fix).csv)
+- Cleaned Item/Place Data (from user(fix).csv)
 ![User Data](./documentation/cleaned_place_screenshot.png) 
 
-- Cleaned Item Data (from wisata(fix).csv)
+- Cleaned User Data (from wisata(fix).csv)
 ![Item Data](./documentation/cleaned_user_screenshot.png)
 
 
