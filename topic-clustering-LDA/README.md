@@ -42,13 +42,13 @@ Trends:
 
 3. **Future Suggestion**
 
-- Personalized Cabin Experience
+- Personalized Cabin Experience:
 Enhances passenger comfort through preferred meals, customized entertainment, and real-time seat feedback.
 
-- Real-Time Delay Compensation
+- Real-Time Delay Compensation:
 Provides automatic compensation, arranges alternative connections, and tracks baggage in real-time during delays.
 
-- Automated Customer Resolution
+- Automated Customer Resolution:
 Offers real-time ticket availability, automatic refund or rebooking, and timely schedule change notifications.
 
 
