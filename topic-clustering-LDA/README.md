@@ -24,22 +24,22 @@ We visualized Qatar Airways’ average monthly rating based on reviews from 2014
 
 We focused on low-rating passenger reviews (scores of 1 to 4 out of 10) and applied a method called Latent Dirichlet Allocation (LDA) to group them into three main topics:
 
-> **Topic 1**
+- **Topic 1**
 Keywords: Business, Class, Lounge, Staff, Food, Serve
 Interpretation: This topic likely refers to in-flight experiences, including the quality of business class service and meals.
 
-> **Topic 2**
+- **Topic 2**
 Keywords: Book, Change, Customer, Ticket, Cancel, Refund
 Interpretation: This topic highlights issues related to booking, such as ticket changes, cancellations, and refund problems.
 
-> **Topic 3**
+- **Topic 3**
 Keywords: Delayed, Hotel, Arrive, Staff, Connect, Luggage
 Interpretation: This topic appears to focus on delays, missed connections, and baggage handling.
 
 Trends:
-> Starting in 2021, there was an increasing trend in the frequency of Topic 1 reviews, indicating growing dissatisfaction with in-flight experiences such as business class service, lounge quality, staff behavior, and food.
+- Starting in 2021, there was an increasing trend in the frequency of Topic 1 reviews, indicating growing dissatisfaction with in-flight experiences such as business class service, lounge quality, staff behavior, and food.
 
-> Topic 2 and Topic 3 reviews peaked in 2022, suggesting that issues related to booking (Topic 2) and flight delays or luggage problems (Topic 3) were most prominent during that year. Although both topics saw a decline in 2023, their spike in 2022 highlights a critical period for customer service concerns.
+- Topic 2 and Topic 3 reviews peaked in 2022, suggesting that issues related to booking (Topic 2) and flight delays or luggage problems (Topic 3) were most prominent during that year. Although both topics saw a decline in 2023, their spike in 2022 highlights a critical period for customer service concerns.
 
 ---
 
@@ -59,6 +59,12 @@ Offers real-time ticket availability, automatic refund or rebooking, and timely 
 
 ## Source Code
 - **Topic_Clustering_LDA.ipnyb**
+
+---
+
+## Documentation
+- Infographic
+- Finalist Certificate
 
 ---
 
