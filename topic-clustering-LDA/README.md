@@ -14,13 +14,12 @@ In this competition, we created an infographic and developed a topic clustering 
 
 ![User Data](./documentation/FP-14_AI_KaryaInfografis_Deluna_page-0001.jpg) 
 
-Insights:
 
-1. Exploratory Data Analysis
+1. **Exploratory Data Analysis**
 
 We visualized Qatar Airways’ average monthly rating based on reviews from 2014 to 2024. The results show a declining trend starting around 2020. This may suggest a drop in overall customer satisfaction.
 
-2. LDA Analysis
+2. **LDA Analysis**
 
 We focused on low-rating passenger reviews (scores of 1 to 4 out of 10) and applied a method called Latent Dirichlet Allocation (LDA) to group them into three main topics:
 
@@ -41,9 +40,7 @@ Trends:
 
 - Topic 2 and Topic 3 reviews peaked in 2022, suggesting that issues related to booking (Topic 2) and flight delays or luggage problems (Topic 3) were most prominent during that year. Although both topics saw a decline in 2023, their spike in 2022 highlights a critical period for customer service concerns.
 
----
-
-3. Future Suggestion
+3. **Future Suggestion**
 
 - Personalized Cabin Experience
 Enhances passenger comfort through preferred meals, customized entertainment, and real-time seat feedback.
