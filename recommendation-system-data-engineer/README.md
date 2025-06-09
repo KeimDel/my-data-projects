@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 Overview
+## 🧾 Overview
 
 The goal of this project is to build a web-based recommendation system that suggests suitable tourist spots for families by analyzing destination metadata and user behavior.  The system gathers data from various sources, including websites, social media, and Google Maps, and uses that data to feed machine learning models for destination matching.
 
@@ -21,7 +21,7 @@ I was responsible for:
 
 ---
 
-## 👩‍💻 File Description
+## 📁 File Description
 
 - **tourist_spots.xlsx**  
   Original EduTourism destination data in Excel format, scraped from multiple sources.
@@ -41,7 +41,7 @@ I was responsible for:
 - **user(fix).csv**  
   Final dataset: cleaned, merged, and structured review data from Google Maps, ready for analysis and modeling.
 
--- 
+---
 
 ## 📷 Documentation
 
